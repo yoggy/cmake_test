@@ -1,0 +1,11 @@
+*.swp
+*~
+.DS_Store
+
+CMakeCache.txt
+CMakeFiles/
+Config.h
+Makefile
+cmake_install.cmake
+
+a.out
